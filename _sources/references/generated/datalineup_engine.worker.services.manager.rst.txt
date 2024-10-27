@@ -1,0 +1,35 @@
+datalineup\_engine.worker.services.manager
+==========================================
+
+.. automodule:: datalineup_engine.worker.services.manager
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ServicesManager
+   
+   
+
+   
+   
+   .. rubric:: Exceptions
+
+   .. autosummary::
+   
+      MissingServiceError
+   
+   
+
+
+

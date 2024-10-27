@@ -1,0 +1,29 @@
+datalineup\_engine.worker.pipeline\_message
+===========================================
+
+.. automodule:: datalineup_engine.worker.pipeline_message
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PipelineMessage
+   
+   
+
+   
+   
+   
+
+
+

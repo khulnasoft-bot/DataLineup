@@ -1,0 +1,30 @@
+datalineup\_engine.worker.executors.manager
+===========================================
+
+.. automodule:: datalineup_engine.worker.executors.manager
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ExecutorWorker
+      ExecutorsManager
+   
+   
+
+   
+   
+   
+
+
+

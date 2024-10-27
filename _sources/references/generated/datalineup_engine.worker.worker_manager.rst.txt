@@ -1,0 +1,29 @@
+datalineup\_engine.worker.worker\_manager
+=========================================
+
+.. automodule:: datalineup_engine.worker.worker_manager
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StandaloneWorkerManagerClient
+   
+   
+
+   
+   
+   
+
+
+

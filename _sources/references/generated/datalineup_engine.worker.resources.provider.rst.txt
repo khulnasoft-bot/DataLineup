@@ -1,0 +1,34 @@
+datalineup\_engine.worker.resources.provider
+============================================
+
+.. automodule:: datalineup_engine.worker.resources.provider
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PeriodicSyncOptions
+      PeriodicSyncProvider
+      ProvidedResource
+      ProvidedResourceRateLimit
+      ResourcesProvider
+      StaticResourcesProvider
+   
+   
+
+   
+   
+   
+
+
+

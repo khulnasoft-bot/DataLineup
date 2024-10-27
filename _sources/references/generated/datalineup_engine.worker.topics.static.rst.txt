@@ -1,0 +1,29 @@
+datalineup\_engine.worker.topics.static
+=======================================
+
+.. automodule:: datalineup_engine.worker.topics.static
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StaticTopic
+   
+   
+
+   
+   
+   
+
+
+

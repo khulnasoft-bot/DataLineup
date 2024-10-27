@@ -1,0 +1,29 @@
+datalineup\_engine.worker.inventories.static
+============================================
+
+.. automodule:: datalineup_engine.worker.inventories.static
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StaticInventory
+   
+   
+
+   
+   
+   
+
+
+

@@ -1,0 +1,32 @@
+datalineup\_engine.worker.resources
+===================================
+
+.. automodule:: datalineup_engine.worker.resources
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   datalineup_engine.worker.resources.manager
+   datalineup_engine.worker.resources.provider
+

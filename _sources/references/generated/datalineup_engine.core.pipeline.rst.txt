@@ -1,0 +1,35 @@
+datalineup\_engine.core.pipeline
+================================
+
+.. automodule:: datalineup_engine.core.pipeline
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      CancellationToken
+      PipelineEvent
+      PipelineInfo
+      PipelineOutput
+      PipelineResults
+      QueuePipeline
+      ResourceUsed
+   
+   
+
+   
+   
+   
+
+
+

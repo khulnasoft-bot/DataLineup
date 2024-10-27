@@ -1,0 +1,29 @@
+datalineup\_engine.worker.inventories.joined
+============================================
+
+.. automodule:: datalineup_engine.worker.inventories.joined
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      JoinInventory
+   
+   
+
+   
+   
+   
+
+
+

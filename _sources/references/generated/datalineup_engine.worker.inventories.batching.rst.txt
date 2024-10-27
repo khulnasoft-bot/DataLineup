@@ -1,0 +1,29 @@
+datalineup\_engine.worker.inventories.batching
+==============================================
+
+.. automodule:: datalineup_engine.worker.inventories.batching
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      BatchingInventory
+   
+   
+
+   
+   
+   
+
+
+

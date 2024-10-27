@@ -1,0 +1,29 @@
+datalineup\_engine.worker.inventories.dummy
+===========================================
+
+.. automodule:: datalineup_engine.worker.inventories.dummy
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DummyInventory
+   
+   
+
+   
+   
+   
+
+
+

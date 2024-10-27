@@ -1,0 +1,31 @@
+datalineup\_engine.worker.work\_manager
+=======================================
+
+.. automodule:: datalineup_engine.worker.work_manager
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ItemsSync
+      WorkManager
+      WorkSync
+   
+   
+
+   
+   
+   
+
+
+

@@ -1,0 +1,29 @@
+datalineup\_engine.core.error
+=============================
+
+.. automodule:: datalineup_engine.core.error
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ErrorMessageArgs
+   
+   
+
+   
+   
+   
+
+
+
